@@ -3,9 +3,10 @@ by using html we create a login page
 1. Module Name
 
 Login Page
+
 TEAM NAME MEMEBERS
 1.harika
-2. harshini
+2.harshini
 3.deevena
 4.monica
 
@@ -132,9 +133,9 @@ TC-006	User Not Registered	User Not Found Message
 
 The Login Page module provides secure authentication and access control by validating user credentials, managing sessions, and protecting application resources from unauthorized access.
 
-Prepared By: ____________
-Project Name: ____________
-Date: ____________
+Prepared By: __alpha creators__________
+Project Name: __login page__________
+Date: ____17/06/2026________
 Version: 1.0
 
 Get smarter responses, upload files and images, and more.
